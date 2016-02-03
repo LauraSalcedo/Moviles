@@ -1,0 +1,41 @@
+# Directorio de salida de Maven.
+target/
+
+# Configuración de Eclipse.
+.metadata/
+.project
+.settings/
+.classpath
+
+# Configuración de Intellij IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Netbeans
+nbproject/
+nb-configuration.xml
+
+# Ficheros temporales de gitk
+/.gitk*/# Directorio de salida de Maven.
+target/
+
+# Configuración de Eclipse.
+.metadata/
+.project
+.settings/
+.classpath
+
+# Configuración de Intellij IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Netbeans
+nbproject/
+nb-configuration.xml
+
+# Ficheros temporales de gitk
+/.gitk*/
